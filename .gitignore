@@ -1,0 +1,5 @@
+*.pyo
+*.pyd
+/build
+/dist
+/mail

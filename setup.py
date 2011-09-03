@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+'''Py2Exe setup script'''
+
 from distutils.core import setup
 import py2exe
 
