@@ -1,7 +1,7 @@
 Fake SMTP mail server for testing purposes.
 Features:
-- Count a number of recieved emails
-- Determain mail sending rate
+- Count a number of received emails
+- Determine mail sending rate
 - Capture mail content to file
 
 Usage example:
