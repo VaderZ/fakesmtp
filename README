@@ -12,6 +12,6 @@ where
   capture - enable/disable capturing of mails content (on/off) 
 e.g.
 >>python 127.0.0.1 2525 off
-If running without arguments then SMTP server will be running at 127.0.0.1:2525 with capturing enabled.
+If running without arguments then SMTP server will be running at 127.0.0.1:25 with capturing enabled.
 
 In addition to Python script you can get Py2Exe build from Downloads.    
